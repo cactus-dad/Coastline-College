@@ -1,4 +1,4 @@
-
+Save these text file to the OneDrive/Google Drive during the competition
 Findings per platform:
 	Naming Convention:
 	Findings -
